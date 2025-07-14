@@ -1,31 +1,45 @@
-# Olá, seja muito bem vindo!
+<h1>👋 Hi there! I'm Leonardo Martins Moreira </h1>
+<div align="justify">
 
-<div>
-  
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=LeonardoMartinsMoreira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMartinsMoreira&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
-
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Tecnologias que utilizo</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   </div>
-    
-  
-  <h1 align="center">Formas de contatos</h1>
-    <div style="display:flex; justify-content:center">
-    <a href = "mailto: martins.moreira.leonardo@escola.pr.gov.br">
-      <img width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    
-<a href = "https://wa.me/5546999843106?text=Ol%C3%A1%2C+gostaria+de+conhecer+melhor+seus+projetos%21">
-<img width="100" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<a href="https://www.linkedin.com/in/leonardo-martins-moreira-b045892a1/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
-    </div>
-  
+</div>
+
+<p></p>
+<p align="justify">
+I'm Leonardo, a passionate programmer with over two years of experience. I'm always exploring new technologies and expanding my skills. Throughout my journey, I've worked with a variety of languages, frameworks, and tools, constantly seeking to grow as a developer.
+</p>
+
+## My favorite Stacks ⚙️
+
+> Tools and technologies that I have worked with and am interested in
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons-picker.derikn.com/_next/image?url=https%3A%2F%2Fskillicons.dev%2Ficons%3Fi%3Dnodejs%26theme%3Dlight&w=128&q=60" alt="icon" width="65" height="65" />
+      <br>Node
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="65" alt="jquery" />
+      <br>PostgreSQL
+          </td>
+  </tr>
+           
+
+ <tr>
+ </tr>
+</table>
