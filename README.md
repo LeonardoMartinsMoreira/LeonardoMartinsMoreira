@@ -11,7 +11,7 @@
 I'm Leonardo, a passionate programmer with over two years of experience. I'm always exploring new technologies and expanding my skills. Throughout my journey, I've worked with a variety of languages, frameworks, and tools, constantly seeking to grow as a developer.
 </p>
 
-## My favorite Stacks ⚙️
+## My Favorite Stack ⚙️
 
 > Tools and technologies that I have worked with and am interested in
 
