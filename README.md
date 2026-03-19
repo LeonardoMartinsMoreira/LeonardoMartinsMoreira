@@ -29,14 +29,6 @@ I'm Leonardo, a passionate programmer with over two years of experience. I'm alw
         <img src="https://skillicons-picker.derikn.com/_next/image?url=https%3A%2F%2Fskillicons.dev%2Ficons%3Fi%3Dnodejs%26theme%3Dlight&w=128&q=60" alt="icon" width="65" height="65" />
       <br>Node
     </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="65" alt="jquery" />
-      <br>PostgreSQL
-          </td>
   </tr>
            
 
